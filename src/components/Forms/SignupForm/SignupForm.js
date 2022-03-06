@@ -2,7 +2,6 @@ import { Button, Stack } from "@mui/material";
 import React, { useRef, useState } from "react";
 import styled from "styled-components";
 import GpsFixedOutlinedIcon from "@mui/icons-material/GpsFixedOutlined";
-import { DatePickerComponent } from "@syncfusion/ej2-react-calendars";
 import { services } from "./services";
 
 const StyledSignupForm = styled.form`
